@@ -2,7 +2,11 @@
 
 **`Estudante Front-End`**
 
-Olá! Me chamo Matheus Braga, tenho 18 anos, sou de Embu das Artes, SP. Sou apaixonado por técnologia, design e games. Gosto muito da programação de forma abrangente porém tenho uma paixão por Hardware também. Me formei no ensino médio em 2023 no colégio CAP, busco sempre por inovação e adoro praticidade na vida, quero iniciar minha faculdade em Agosto de 2025 começando por Análise e Desenvolvimento de Sistemas e após fazer uma pós-graduação em Engenharia de Software!
+👋 Olá! Eu sou o Matheus Braga, estudante de Análise e Desenvolvimento de Sistemas e aspirante a Engenheiro de Software. Sou apaixonado por automação e desenvolvimento de soluções que simplifiquem processos.
+
+Atualmente, foco em Python, JavaScript, SQL, Git/GitHub e desenvolvimento web, criando projetos que unem eficiência, aprendizado contínuo e inovação. Adoro explorar formas de fazer algo complexo se tornar simples e rápido, sempre buscando melhorar minhas habilidades e compartilhar conhecimento.
+
+💡 Aqui no GitHub você vai encontrar meus projetos acadêmicos, scripts de automação e aplicações web, todos construídos com atenção a boas práticas e aprendizado prático.
 
 ---
 
