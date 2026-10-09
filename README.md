@@ -10,8 +10,6 @@ Atualmente, desenvolvo com JavaScript, HTML, CSS, Google Apps Script e Kotlin, e
 
 💡 Gosto de explorar formas de tornar algo complexo mais simples, reaproveitar recursos e buscar soluções viáveis mesmo com orçamento limitado. Meu aprendizado acontece na prática, entre ideias, testes, erros e melhorias.
 
-🎯 Busco minha primeira oportunidade em desenvolvimento de software, levando minha visão operacional e a vontade de aprender com uma equipe. Quero evoluir na construção de sistemas confiáveis, compreender melhor as decisões por trás do código e contribuir com soluções que façam sentido para quem usa.
-
 Aqui no GitHub compartilho parte dessa jornada: estudos, scripts, aplicações e aprendizados que acompanham minha evolução.
 
 ---
